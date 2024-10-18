@@ -1,1 +1,1 @@
-# Todolist_VanillaJS
+# To-do List (VanillaJS)
